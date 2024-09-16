@@ -1,0 +1,22 @@
+export const HomeData = [
+    {
+        image:"https://d6kigqwjl9u8w.cloudfront.net/mageplaza/bannerslider/banner/image/2/1/21_gown_mob_2_.jpg",
+        path:"/women/clothing/gowns"
+    },
+    {
+        image:"https://d6kigqwjl9u8w.cloudfront.net/mageplaza/bannerslider/banner/image/1/s/1saree_1_.jpg",
+        path:"/women/clothing/saree"
+    },
+    {
+        image:"https://d6kigqwjl9u8w.cloudfront.net/mageplaza/bannerslider/banner/image/8/l/8lehenga_coll_copy.jpg_mob_2_.jpg",
+        path:"/women/clothing/lehenga"
+    },
+    {
+        image:"https://d6kigqwjl9u8w.cloudfront.net/mageplaza/bannerslider/banner/image/1/7/17_salwar_kameez_mob_2_.jpg",
+        path:"/women/clothing/salwar"
+    },
+    {
+        image:"https://d6kigqwjl9u8w.cloudfront.net/mageplaza/bannerslider/banner/image/3/0/30_cord_set_copy.jpg",
+        path:"/women/clothing/dress"
+    }
+]
